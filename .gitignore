@@ -1,0 +1,13 @@
+/portfolio/archive/
+/portfolio/deep.html
+/portfolio/deep_files/
+/portfolio/deep.jpg
+/portfolio/Untitled-1.png
+/portfolio/assets/images/projects/Cafe menu.webp
+/portfolio/assets/images/projects/Cafe menu (2).webp
+/.venv/
+**/desktop.ini
+Thumbs.db
+*.tmp
+*.temp
+*.bak
